@@ -1,11 +1,9 @@
 import React from "react";
-import Navbar from "../../components/Navbar"
 
 const categories = () => {
   return (
     <>
       {/* NAVBAR START */}
-      <Navbar />
       {/* FORUM CATEGORIES START */}
       <div className="container">
         <section className="section-title">
